@@ -6,7 +6,7 @@ Created on Tue Sep 11 21:49:22 2018
 """
 
 #importing the libraries
-import os
+import os as os
 import sys
 
 print(sys.version)
