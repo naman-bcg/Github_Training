@@ -15,5 +15,6 @@ print("My first python code")
 #calculating sum of two numbers
 x=2
 y=4
-
 print("Sum of two numbers is {}".format(x+y))
+
+print("Completed")
